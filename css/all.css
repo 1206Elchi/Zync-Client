@@ -1,0 +1,17 @@
+/* 
+    we can @import all the css files for sake of ease
+*/
+@import url("defaultColors.css");
+
+/* default styling for all elements */
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "", sans-serif;
+    color: var(--main-text-color);
+}
+
+/* default body styling */
+body {
+    background: var(--body-background-color);
+}
