@@ -1,0 +1,8 @@
+/*
+    the default colors for zync. we can overwrite these
+    in javascript, if we want client-color customization
+*/
+:root {
+    --body-background-color: #131313;
+    --main-text-color: #d8d8d8;
+}
